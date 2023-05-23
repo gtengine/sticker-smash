@@ -1,6 +1,6 @@
 # Sticker-smash
 
-앱 개발 연습 프로젝트-0: 이미지 스티커
+앱 개발 연습 프로젝트-0: 이미지 스티커 (Expo tutorial)
 
 Framework: **Expo**
 
